@@ -1,7 +1,7 @@
 Hue Wheel for JavaScript
 ========================
 
-![Demo snapshot](http://i.imgur.com/by5YtY3.png)
+[![Demo snapshot](http://i.imgur.com/by5YtY3.png)](http://epistemex.github.io/huewheel/)
 *<sup>Snapshot from tint demo.</sup>*
 
 HueWheel is a HSL/HSV HTML5 color wheel *control*. Supports HSL/HSV <-> RGB values with many options for
